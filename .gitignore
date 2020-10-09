@@ -6,3 +6,9 @@ firebase-service-account.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+babel.config.js
+jest*
+README.md
+Scripts
+server
+shared
